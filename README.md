@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hello everyone 👋
+
+##  Welcome to my about me page
+
+### I´m currently learning about programming, trying to learn the basics such as C++, PHP, JAVA, CSS, HTTP2, HTML5, Ruby on rails, Git, and also starting with the students develoment package in GitHub.
+
+Find more about me below.
 
 <!--
 **Zochyp/zochyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
