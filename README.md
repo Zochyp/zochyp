@@ -2,21 +2,11 @@
 
 ##  Welcome to my about me page
 
-### I´m currently learning about programming, trying to learn the basics such as C++, PHP, JAVA, CSS, HTTP2, HTML5, Ruby on rails, Git, and also starting with the students develoment package in GitHub.
+Find more about me below:
 
-Find more about me below.
-
-<!--
-**Zochyp/zochyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on becoming a film producer and software engineer.
+- 🌱 I’m currently learning C++, PHP, JAVA, CSS HTTP2, HTML, Ruby on Rails, Git
+- 👯 I’m looking to collaborate on social projects, start ups.
+- 🤔 I’m looking for help with everything that you can share
+- 💬 Ask me about me
+- 😄 Pronouns: He/Him
